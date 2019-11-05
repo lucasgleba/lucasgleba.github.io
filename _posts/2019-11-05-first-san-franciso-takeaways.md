@@ -26,7 +26,7 @@ tags:
 - Zoom is still very far from realistically emulating meeting in real life.
 - Despite its obvious downsides, SF is an amazing city.
 - Ride-sharing apps are extremely convenient.
-
-*Relevant contributions in regards to hiring faster.*
+***
+**Important contributions in regards to hiring faster.** [See tweet](https://twitter.com/lucasgleba/status/1191112070135238658)
 - "I think there was important context here. The company had strong product market fit _in hindsight_ and the founders potentially recognized it a little later. I’d say in general that hire slowly is still good." Everett Berry [@everettpberry](https://twitter.com/everettpberry/status/1191156143688568833)
 - "Dangerous. Overhiring and hiring the wrong people are probably the two most common mistakes in SV. Even the VC firms do it to themselves. No one is immune." David Holz [@DavidSHolz](https://twitter.com/DavidSHolz/status/1191422851003215873)
